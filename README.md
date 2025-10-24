@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/orange_line_chart.png" alt="Startup Valuation Growth Preview" width="80%">
+</p>
  🦄 ml-ai-foundations-portfolio
 
   This project explores global unicorn companies to identify key industries, countries, and valuation trends driving modern startup growth. Created as part of Codecademy’s Data & AI Foundations course.
